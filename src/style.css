@@ -17,9 +17,10 @@ body{
     font-size: 16px;
     padding: 15px 20px;
 }
-.search-button-form{
+.search-form-button{
     background-color: #885df1;
     padding: 15px 30px;
+    border-radius: 6px;
     border: none;
     font-size: 16px;
     margin-left: 5px;
@@ -50,6 +51,7 @@ main{
     margin: 0;
     font-size: 38px;
     line-height: 48px;
+    
 }
 .weather-app-details{
     color: rgba(39, 33, 66, 0.4);
